@@ -288,6 +288,11 @@ table.table .avatar {
 .modal form label {
 	font-weight: normal;
 }
+
+.container {
+	width: 100%;
+	max-width: inherit;
+}
 </style>
 
 <title>Hello, world!</title>
