@@ -531,7 +531,7 @@ footer.sticky-footer {
 
 
 
-<title>Hello, world!</title>
+<title>GENOVEX</title>
 
 </head>
 <body class="fixed-nav sticky-footer bg-dark" id="page-top">
@@ -576,11 +576,6 @@ footer.sticky-footer {
 				<li class="nav-item" data-toggle="tooltip" data-placement="right"
 					title="Link"><a class="nav-link" href="#"> <i
 						class="fa fa-fw fa-link"></i> <span class="nav-link-text">Link</span>
-				</a></li>
-			</ul>
-			<ul class="navbar-nav sidenav-toggler">
-				<li class="nav-item"><a class="nav-link text-center"
-					id="sidenavToggler"> <i class="fa fa-fw fa-angle-left"></i>
 				</a></li>
 			</ul>
 			<ul class="navbar-nav ml-auto">
